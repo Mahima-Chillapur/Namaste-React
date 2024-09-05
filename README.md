@@ -48,3 +48,7 @@ REACT HOOKs
 --written by facebook developers inside React library.
 --Most Important-- UseState()-superpowerful state variables in react,
 UseEffect()
+
+2 types of routing
+--client side routing
+--server side routing
